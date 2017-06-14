@@ -1,4 +1,3 @@
-====================================
 mcpi库 (Python3版本)
 ====================================
 
@@ -30,6 +29,6 @@ mc.player.setPos(0, 100, 0)
 
 ```
 
-原始插件和API地址：
+### 原始插件和API地址：
 [https://github.com/zhuowei/RaspberryJuice.git](https://github.com/zhuowei/RaspberryJuice.git)
 
